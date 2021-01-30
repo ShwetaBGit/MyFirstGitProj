@@ -8,6 +8,7 @@ public class ClientTest {
 		
 		System.out.println(AdditionOfNumber.add(2,2));
 
+		System.out.println(AdditionOfNumber.add(4,4));
 	}
 
 }
